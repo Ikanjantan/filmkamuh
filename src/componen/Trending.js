@@ -77,7 +77,7 @@ const Trending = () => {
                                 <div className="p-2 m-1 text-white">
                                 <Card.Title className="text-center">A Quiet Place</Card.Title>
                                 <Card.Text className="text-left">
-                                    Menceritakan pemuda tenpramental yang sangat membenci titan, tetapi dia malah jadi titan
+                                    Sebuah keluarga hidup dalam ketakutan. Mereka berusaha harus hidup dalam keheningan agar terhindar dari mahluk misterius.
                                 </Card.Text>
                                 <Card.Text className="text-left">Last updated 3 mins ago</Card.Text>
                                 </div>
