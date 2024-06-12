@@ -19,6 +19,7 @@ const Horor = () => {
                             <Image src={iamahero} alt="Tatakae" className="imagaes"/>
                             <div className="bg-dark">
                                 <div className="p-2 m-1 text-white">
+        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" class="stretched-link"></a>
                                 <Card.Title className="text-center">I am A Hero</Card.Title>
                                 <Card.Text className="text-left">
                                 Hideo Suzuki merupakan asisten pembuat manga yang kehidupannya berjalan sangat payah. Suatu hari tersebar kabar bahwa ada wabah penyakit diikuti dengan tindakan panik dari warga Jepang sehingga mengabitkan kerusuhan di mana-mana.
@@ -33,6 +34,7 @@ const Horor = () => {
                             <Image src={insidious} alt="Tatakae" className="imagaes"/>
                             <div className="bg-dark">
                                 <div className="p-2 m-1 text-white">
+        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" class="stretched-link"></a>
                                 <Card.Title className="text-center">Insidious</Card.Title>
                                 <Card.Text className="text-left">
                                 Josh dan dan Renai Lambert pindah ke sebuah mansion baru bersama ke-tiga anak mereka. Keadaan berubah mengerikan ketika Dalton dan anak mereka, terjatuh dan koma setelah serangan misterius di loteng.
@@ -47,6 +49,7 @@ const Horor = () => {
                             <Image src={themedium} alt="Tatakae" className="imagaes"/>
                             <div className="bg-dark">
                                 <div className="p-2 m-1 text-white">
+        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" class="stretched-link"></a>
                                 <Card.Title className="text-center">The Medium</Card.Title>
                                 <Card.Text className="text-left">
                                 Nim seorang dukun di daerah Isan - Thailand Utara mereka bertemu dengan keponakannya bernama Mink yang menunjukkan gejala aneh. Nampaknya Mink akan mewarisi bakat dukun dari keturunan keluarga mereka.
@@ -61,6 +64,7 @@ const Horor = () => {
                             <Image src={nope2} alt="Tatakae" className="imagaes"/>
                             <div className="bg-dark">
                                 <div className="p-2 m-1 text-white">
+        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" class="stretched-link"></a>
                                 <Card.Title className="text-center">Nope</Card.Title>
                                 <Card.Text className="text-left">
                                 Setelah ayah mereka tewas akibat jatuhnya berbagai benda acak dari langit, kakak beradik pemilik peternakan, OJ dan Emerald Haywood berupaya merekam video bukti keberadaan UFO, dibantu oleh seorang penjual barang elektonik, Angel Torres dan pembuat film dokumenter, Antlers Holst.
@@ -75,6 +79,7 @@ const Horor = () => {
                             <Image src={recbaru} alt="Tatakae" className="imagaes"/>
                             <div className="bg-dark">
                                 <div className="p-2 m-1 text-white">
+        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" class="stretched-link"></a>
                                 <Card.Title className="text-center">REC</Card.Title>
                                 <Card.Text className="text-left">
                                 Seorang wartawan televisi dan juru kamera merekam video wabah mengerikan dari penyakit yang mengubah manusia menjadi kanibal ganas.
@@ -89,6 +94,7 @@ const Horor = () => {
                             <Image src={smile} alt="Tatakae" className="imagaes"/>
                             <div className="bg-dark">
                                 <div className="p-2 m-1 text-white">
+        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" class="stretched-link"></a>
                                 <Card.Title className="text-center">Smile</Card.Title>
                                 <Card.Text className="text-left">
                                 Setelah menyaksikan kejadian yang aneh yang melibatkan seorang pasien, Dr. Rose Cotter mulai mengalami kejadian menakutkan yang tidak bisa dia jelaskan. Rose harus menghadapi masa lalunya yang bermasalah, disamping itu Ia juga berusaha untuk bertahan hidup dan melarikan diri dari kenyataan baru yang mengerikan.
