@@ -9,6 +9,7 @@ const NavigationBar = () => {
                     <Nav >
                     <Nav.Link href="#trending">TRENDING</Nav.Link>
                     <Nav.Link href="#horor">HORROR</Nav.Link>
+                    <Nav.Link href="https://filmkamuhacc.vercel.app/">CARI FILM</Nav.Link>
                     </Nav>
                 </Container>
             </Navbar>
